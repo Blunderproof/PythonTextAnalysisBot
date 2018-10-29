@@ -36,8 +36,8 @@ class myComment:
 
 
 #https://www.youtube.com/watch?v=Uvxu2efXuiY THESE ARE NECESSARY DATA MEMBERS FOR THE ACCOUNT LOGIN
-user_name = 'CallerNumber4'
-app_ua = '/u/CallerNumber4 Text Analysis for Class'
+user_name = ''
+app_ua = ''
 app_secret = ''
 app_id = ''
 app_uri = 'https://127.0.0.1:65010/authorize_callback'
